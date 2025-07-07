@@ -1,0 +1,16 @@
+
+os:
+
+ubuntu
+
+tool:
+
+nvim 
+vim
+tmux
+mysql workbench
+cmake 
+make 
+vs code
+mongo db
+

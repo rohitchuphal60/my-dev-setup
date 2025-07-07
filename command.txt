@@ -1,0 +1,25 @@
+cd            --cange directory 
+ls            -- list 
+mv            -- move or rename file 
+rm            -- remove
+cp            -- for copy 
+shutdown      --for shutdown 
+reboot        --for reboot 
+chmod         --for changeing mode of file and director
+chown         -- for changeing owner of file and directory
+passwd        -- for changeing password of user 
+pwd           --print working directory 
+sudo          --for giveing super user  privillages 
+clear         --for clear command prompt screen 
+exit          --for exit from command prompt 
+mkdir         -- for makeing  directory  
+touch         -- for makeing  file 
+cat           -- for concatynate file
+tail          -- for printing end string's of file 
+head          -- for printing starting string's of file 
+su            -- for switch user
+service       -- for control/check service's
+apt           -- package manager 
+
+
+
