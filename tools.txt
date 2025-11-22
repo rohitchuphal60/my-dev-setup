@@ -1,4 +1,3 @@
 ai --- chatgpt
-ai --- cursor
 ai --- claude
 ai --- blackbox
